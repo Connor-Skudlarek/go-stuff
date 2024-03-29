@@ -1,3 +1,3 @@
-module github.com/go-stuff/risk-calculator
+module github.com/Connor-Skudlarek/go-stuff/risk-calculator
 
 go 1.22.1
